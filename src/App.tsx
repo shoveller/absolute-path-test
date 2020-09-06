@@ -1,4 +1,5 @@
 import React from 'react';
+import { Test } from "./components/Test";
 import logo from './logo.svg';
 import './App.css';
 
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+	        {Test}
         </a>
       </header>
     </div>
