@@ -1,5 +1,6 @@
-import React from 'react';
+// App.tsx
 import { Test } from "@/components/Test";
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
